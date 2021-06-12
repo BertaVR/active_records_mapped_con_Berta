@@ -1,8 +1,9 @@
 # Active Record
 
 ## Goals
-The aim of this repo was practising on how to connect our code to a database. We tried to learn specially how one to one relations work.
+The aim of this repo was practising on how to connect our code to a database. We tried to learn specially how one to one relations work. We used pair programming to make this project.
 
+# How to run it (default info by quarkus)
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
