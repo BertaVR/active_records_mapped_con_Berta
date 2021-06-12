@@ -1,4 +1,7 @@
-# partido project
+# Active Record
+
+## Goals
+The aim of this repo was practising on how to connect our code to a database. We tried to learn specially how one to one relations work.
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
